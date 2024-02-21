@@ -28,14 +28,23 @@
 
 ## Languages and Tools  
 <div align="center">  
-
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+ 
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
 <img title="mysql" alt="MySQL" src="assets/mysql.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>
+<img title="dart" alt="Dart" src="assets/Dart-logo-icon.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
+<img title="flutter" alt="Flutter" src="assets/flutter-logo.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+<img title="django" alt="Django" src="assets/django-logo-negative.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
+<img title="Scikit_learn" alt="Scikit_learn" src="assets/Scikit_learn_logo_small.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
+<img title="Numpy" alt="Numpy" src="assets/numpy-seeklogo.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
+<img title="Pandas" alt="Pandas" src="assets/pandas-icon-seeklogo.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
+<img title="Streamlit" alt="Streamlit" src="assets/streamlit-mark-color.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
+<img title="Dash" alt="dash" src="assets/dash-logo-stripe.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>     
 </div>
 
